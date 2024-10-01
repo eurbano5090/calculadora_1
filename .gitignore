@@ -1,0 +1,15 @@
+# Ignorar carpetas y archivos de PyCharm
+.idea/
+
+# Ignorar archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Ignorar ejecutables generados por PyInstaller
+dist/
+build/
+*.spec
+*.exe
+
+# Ignorar entornos virtuales
+venv/
